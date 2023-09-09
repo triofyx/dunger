@@ -19,7 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity logo" />
   <img src="https://img.shields.io/github/contributors/coderloff/dunger?style=for-the-badge&color=%2300ff00" alt="Contributors" />
   <img src="https://img.shields.io/github/forks/coderloff/dunger?style=for-the-badge" alt="Forks" />
   <img src="https://img.shields.io/github/stars/coderloff/dunger?style=for-the-badge&color=%23dfb317" alt="Stars" />
@@ -109,7 +108,7 @@ With Dunger, you can harness the power of procedural generation in Unity to keep
 
 Get started with Dunger in Unity today and bring dynamic dungeon exploration to your game world!
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
@@ -122,7 +121,7 @@ Dunger is powered by the Unity game engine, harnessing its versatile capabilitie
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" />
 </div>
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 <!-- GETTING STARTED -->
@@ -165,7 +164,7 @@ If you already have an existing Unity project and want to integrate Dunger, you 
 
 4. Click `install` in Unity
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 <!-- USAGE EXAMPLES -->
@@ -187,7 +186,7 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
@@ -204,7 +203,7 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
 
 See the [open issues](https://github.com/coderloff/dunger/issues) for a full list of proposed features (and known issues).
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
@@ -224,7 +223,7 @@ We welcome contributions from the community to help Dunger thrive. Here's how yo
 5. **Spread the Word:** Help us grow the Dunger community by sharing your experiences with others. Tweet about your projects, write blog posts, or create tutorials featuring Dunger.
 
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
@@ -233,7 +232,7 @@ We welcome contributions from the community to help Dunger thrive. Here's how yo
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
@@ -268,7 +267,7 @@ Project Link: [https://github.com/coderloff/dunger](https://github.com/coderloff
   </a>
 </div>
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -286,7 +285,7 @@ Dunger wouldn't be possible without the support, contributions, and inspiration 
 
 * **Our Users:** Last but not least, a big thank you to all Dunger users. Your creativity and innovation using our tool drive us to keep improving.
 
-<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
+<p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
 
