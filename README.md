@@ -1,23 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/coderloff/dunger/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the dunger. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 <div align="center">
   <img src="https://img.shields.io/github/contributors/coderloff/dunger?style=for-the-badge&color=%2300ff00" alt="Contributors" />
   <img src="https://img.shields.io/github/forks/coderloff/dunger?style=for-the-badge" alt="Forks" />
@@ -25,7 +7,6 @@
   <img src="https://img.shields.io/github/issues/coderloff/dunger?style=for-the-badge&color=%23d0312d" alt="Issues" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </div>
-
 
 
 <!-- PROJECT LOGO -->
@@ -50,7 +31,6 @@
     <a href="https://github.com/coderloff/dunger/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -80,11 +60,8 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 Dunger is an open-source project developed in Unity that specializes in generating random dungeons for games and applications. It offers a straightforward and efficient way to create dynamic and ever-changing dungeon layouts for your Unity-based projects.
 
@@ -109,7 +86,6 @@ With Dunger, you can harness the power of procedural generation in Unity to keep
 Get started with Dunger in Unity today and bring dynamic dungeon exploration to your game world!
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
-
 
 
 ### Built With
@@ -188,10 +164,7 @@ Customize your dungeons by adjusting parameters such as size, complexity, and ro
 4. **Script Integration:**
 For advanced users, Dunger offers script-based integration, allowing you to control dungeon generation programmatically. Use this option to create unique and dynamic gameplay experiences.
 
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
-
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
-
 
 
 <!-- ROADMAP -->
@@ -208,7 +181,6 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
 See the [open issues](https://github.com/coderloff/dunger/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -230,14 +202,12 @@ We welcome contributions from the community to help Dunger thrive. Here's how yo
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
-
 
 
 <!-- CONTACT -->
