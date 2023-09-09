@@ -51,7 +51,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -93,8 +93,9 @@ Get started with Dunger in Unity today and bring dynamic dungeon exploration to 
 Dunger is powered by the Unity game engine, harnessing its versatile capabilities for seamless integration and exceptional performance. The project leverages Unity's robust tools and resources to provide a user-friendly environment for generating random dungeons. With Dunger, you can take advantage of Unity's powerful features to create dynamic and engaging game worlds filled with procedurally generated dungeons.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity logo" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" />
+  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-Green?style=for-the-badge&logo=csharp
+" alt="C#" />
 </div>
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
@@ -179,7 +180,7 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Roadmap
 
 - [x] Add Changelog
@@ -193,6 +194,7 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
 See the [open issues](https://github.com/coderloff/dunger/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
+-->
 
 
 <!-- CONTRIBUTING -->
