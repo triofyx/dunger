@@ -132,11 +132,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Before installing Dunger, ensure that you have the following prerequisites in place:
+
+* **Unity:** Dunger is specifically designed for the Unity game engine. Make sure you have Unity installed on your development machine. You can download Unity from the official Unity website.
+
+* **GitHub Access:** If you plan to clone Dunger from GitHub, you'll need a GitHub account and a Git client installed on your machine for version control.
+
+* **Existing Unity Project:** If you're integrating Dunger into an existing Unity project, ensure that your project is set up and compatible with the Unity version specified in Dunger's documentation.
+
+Having these prerequisites in order will help you smoothly install and work with Dunger in your Unity environment.
 
 ### Installation
 
