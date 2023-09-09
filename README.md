@@ -241,20 +241,20 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/coderloff/dunger.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/coderloff/dunger?style=for-the-badge&color=%2300ff00
 [contributors-url]: https://github.com/coderloff/dunger/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/coderloff/dunger.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/coderloff/dunger?style=for-the-badge
 [forks-url]: https://github.com/coderloff/dunger/network/members
-[stars-shield]: https://img.shields.io/github/stars/coderloff/dunger.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/coderloff/dunger?style=for-the-badge&color=%23dfb317
 [stars-url]: https://github.com/coderloff/dunger/stargazers
-[issues-shield]: https://img.shields.io/github/issues/coderloff/dunger.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/coderloff/dunger?style=for-the-badge&color=%23d0312d
 [issues-url]: https://github.com/coderloff/dunger/issues
 [license-shield]: https://img.shields.io/github/license/coderloff/dunger.svg?style=for-the-badge
 [license-url]: https://github.com/coderloff/dunger/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/coderloff
 [product-screenshot]: images/screenshot.png
-[Unity]: https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)]
+[Unity]: https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity
 [Unity-url]: https://unity3d.com
 [CSharp]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [CSharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
