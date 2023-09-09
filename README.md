@@ -121,7 +121,7 @@ Having these prerequisites in order will help you smoothly install and work with
 ### Installation
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/coderloff/" target="_blank">
+  <a href="https://github.com/coderloff/dunger/releases" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB_RELEASES-VISIT-Green?style=for-the-badge&logo=github" alt="GitHub Releases" />
   </a>
   <a href="https://assetstore.unity.com/publishers/88099?preview=1" target="_blank">
