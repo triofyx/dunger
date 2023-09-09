@@ -122,16 +122,13 @@ Having these prerequisites in order will help you smoothly install and work with
 
 <div align="center">
   <a href="https://www.linkedin.com/in/coderloff/" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB_RELEASES-VISIT-Green?style=for-the-badge&logo=github
-" alt="GitHub Releases" />
+    <img src="https://img.shields.io/badge/GITHUB_RELEASES-VISIT-Green?style=for-the-badge&logo=github" alt="GitHub Releases" />
   </a>
   <a href="https://assetstore.unity.com/publishers/88099?preview=1" target="_blank">
-    <img src="https://img.shields.io/badge/UNITY_ASSET_STORE-VISIT-Green?style=for-the-badge&logo=unity
-" alt="Unity Asset Store" />
+    <img src="https://img.shields.io/badge/UNITY_ASSET_STORE-VISIT-Green?style=for-the-badge&logo=unity" alt="Unity Asset Store" />
   </a>
   <a href="https://github.com/coderloff/dunger/releases/download/v1.0.0/Dunger.unitypackage" target="_blank">
-    <img src="https://img.shields.io/badge/UNITY_PACKAGE-DOWNLOAD-Green?style=for-the-badge&logo=unity
-" alt="Unity Package" />
+    <img src="https://img.shields.io/badge/UNITY_PACKAGE-DOWNLOAD-Green?style=for-the-badge&logo=unity" alt="Unity Package" />
   </a>
 </div>
 
