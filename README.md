@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/coderloff/dunger">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="Assets/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dunger</h3>
