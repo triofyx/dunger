@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/coderloff/dunger">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dunger</h3>
@@ -85,16 +85,27 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Dunger is an open-source project developed in Unity that specializes in generating random dungeons for games and applications. It offers a straightforward and efficient way to create dynamic and ever-changing dungeon layouts for your Unity-based projects.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Key Features of Dunger:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+* **Procedural Dungeon Generation:** Dunger streamlines the process of generating dungeons with just a few clicks. It uses procedural algorithms to create unique layouts, ensuring that players never experience the same dungeon twice.
 
-Use the `BLANK_README.md` to get started.
+* **Unity Integration:** Built exclusively for Unity, Dunger seamlessly integrates into your Unity projects. You can easily incorporate it into your game development workflow and start generating dungeons in no time.
+
+* **Configurable Parameters:** Customize the dungeons to fit your specific needs. Adjust parameters like dungeon size, complexity, and room distribution to achieve the desired level of challenge and variety.
+
+* **User-Friendly Interface:** Dunger provides an intuitive interface that makes it accessible to both seasoned developers and newcomers. You don't need to be a coding expert to create captivating dungeons.
+
+* **Documentation and Support:** Dunger comes with comprehensive documentation and support resources to help you get started and troubleshoot any issues you might encounter.
+
+### Why Choose Dunger:
+
+Dunger simplifies the process of adding randomized dungeons to your Unity games or applications. Whether you're developing a roguelike adventure, a dungeon crawler, or any game that benefits from procedural level design, Dunger can save you time and effort while enhancing the player experience.
+
+With Dunger, you can harness the power of procedural generation in Unity to keep your players engaged with fresh and unpredictable dungeons, making your project stand out in the world of game development.
+
+Get started with Dunger in Unity today and bring dynamic dungeon exploration to your game world!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,12 +113,14 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Dunger is powered by the Unity game engine, harnessing its versatile capabilities for seamless integration and exceptional performance. The project leverages Unity's robust tools and resources to provide a user-friendly environment for generating random dungeons. With Dunger, you can take advantage of Unity's powerful features to create dynamic and engaging game worlds filled with procedurally generated dungeons.
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="unity logo" />
+</div>
 [![Unity][Unity]][Unity-url] [![C#][CSharp]][CSharp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
