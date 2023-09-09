@@ -18,12 +18,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity logo" />
+  <img src="https://img.shields.io/github/contributors/coderloff/dunger?style=for-the-badge&color=%2300ff00" alt="Contributors" />
+  <img src="https://img.shields.io/github/forks/coderloff/dunger?style=for-the-badge" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/coderloff/dunger?style=for-the-badge&color=%23dfb317" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/coderloff/dunger?style=for-the-badge&color=%23d0312d" alt="Issues" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+</div>
 
 
 
@@ -83,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 Dunger is an open-source project developed in Unity that specializes in generating random dungeons for games and applications. It offers a straightforward and efficient way to create dynamic and ever-changing dungeon layouts for your Unity-based projects.
 
@@ -107,7 +109,7 @@ With Dunger, you can harness the power of procedural generation in Unity to keep
 
 Get started with Dunger in Unity today and bring dynamic dungeon exploration to your game world!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
@@ -117,10 +119,10 @@ Dunger is powered by the Unity game engine, harnessing its versatile capabilitie
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity logo" />
-  <img src=[CSharp] alt="C# logo" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# logo" />
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 <!-- GETTING STARTED -->
@@ -139,34 +141,53 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Dunger offers a hassle-free installation process, providing two convenient options:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+#### Cloning from GitHub:
+
+To start a new project with Dunger, simply clone the Dunger repository from GitHub to your local machine. You can then open the project directly in Unity, making it easy to get started with dungeon generation right away.
+
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/coderloff/dunger
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Open clonned project using `Unity Hub`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+#### Importing as a Unity Package:
 
+If you already have an existing Unity project and want to integrate Dunger, you can import it as a Unity package. This allows you to seamlessly add Dunger's dungeon generation capabilities to your ongoing project, enhancing its gameplay with dynamic dungeons.
+
+1. Download `unitypackage` by clicking [here](https://github.com/coderloff/dunger)
+
+2. Open your Unity project
+
+3. Double-click on the downloaded package
+
+4. Click `install` in Unity
+
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Using Dunger to generate random dungeons in your Unity project is a straightforward process. Here's a quick guide:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. **New Project Setup:**
+If you're starting a new project, clone Dunger from GitHub and open it in Unity. Dunger will be ready to use, and you can begin customizing and generating dungeons right away.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+2. **Existing Project Integration:**
+If you have an existing Unity project, import Dunger as a Unity package. Once integrated, you can access Dunger's functionality through Unity's user-friendly interface.
+
+3. **Customization:**
+Customize your dungeons by adjusting parameters such as size, complexity, and room distribution to achieve the desired level of challenge and variety.
+
+4. **Script Integration:**
+For advanced users, Dunger offers script-based integration, allowing you to control dungeon generation programmatically. Use this option to create unique and dynamic gameplay experiences.
+
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
+
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
@@ -183,25 +204,27 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/coderloff/dunger/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+We welcome contributions from the community to help Dunger thrive. Here's how you can get involved:
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+1. **Filing Issues:** If you encounter bugs or have suggestions for improvements, please open an issue on our GitHub repository. Be sure to provide details and context to help us understand the issue.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. **Pull Requests:** We appreciate pull requests for bug fixes, feature enhancements, or new additions. Make sure your contributions align with our project's goals and coding standards.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+3. **Documentation:** Improving our documentation is a valuable way to contribute. If you find areas that need clarification or want to add examples, your help is greatly appreciated.
+
+4. **Community Support:** Join discussions, answer questions, and share your knowledge on our community forums. Your expertise can be a valuable resource for fellow Dunger users.
+
+5. **Spread the Word:** Help us grow the Dunger community by sharing your experiences with others. Tweet about your projects, write blog posts, or create tutorials featuring Dunger.
+
+
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
@@ -210,36 +233,60 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Huseyn - [@coderloff](https://twitter.com/coderloff) - contact@coderloff.com
+Huseyn Ismayilov - [@coderloff](https://twitter.com/coderloff) - contact@coderloff.com
 
 Project Link: [https://github.com/coderloff/dunger](https://github.com/coderloff/dunger)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC-z0HI2-UU-ThjUDz2Bsevg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="instagram.com/coderloff/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/UmyXBBTFkE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/coderloff" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://twitter.com/coderloff" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:contact@coderloff.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/coderloff/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Dunger wouldn't be possible without the support, contributions, and inspiration from the following individuals and projects:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* **Sunny Valley Studio:** Thanks a lot to [Peter](https://github.com/sunnyValleyStudio) for his great support for the project.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* **Our Community:** We extend our gratitude to the Dunger community for their feedback, enthusiasm, and collaboration in shaping the project.
+
+* **Open Source Contributors:** Many individuals have dedicated their time and expertise to improve Dunger. Your contributions are invaluable.
+
+* **Unity:** We thank the Unity team for providing the platform that makes Dunger possible and for supporting the developer community.
+
+* **Our Users:** Last but not least, a big thank you to all Dunger users. Your creativity and innovation using our tool drive us to keep improving.
+
+<p align="right"><a href="#readme-top">&uarr Back to top</a></p>
 
 
 
