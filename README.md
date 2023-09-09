@@ -116,9 +116,9 @@ Get started with Dunger in Unity today and bring dynamic dungeon exploration to 
 Dunger is powered by the Unity game engine, harnessing its versatile capabilities for seamless integration and exceptional performance. The project leverages Unity's robust tools and resources to provide a user-friendly environment for generating random dungeons. With Dunger, you can take advantage of Unity's powerful features to create dynamic and engaging game worlds filled with procedurally generated dungeons.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="unity logo" />
+  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity logo" />
+  <img src=[CSharp] alt="C# logo" />
 </div>
-[![Unity][Unity]][Unity-url] [![C#][CSharp]][CSharp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
