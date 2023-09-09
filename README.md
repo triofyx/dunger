@@ -94,8 +94,7 @@ Dunger is powered by the Unity game engine, harnessing its versatile capabilitie
 
 <div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/LANGUAGE-C%23-Green?style=for-the-badge&logo=csharp
-" alt="C#" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-Green?style=for-the-badge&logo=csharp" alt="C#" />
 </div>
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
