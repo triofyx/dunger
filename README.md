@@ -160,7 +160,7 @@ To start a new project with Dunger, simply clone the Dunger repository from GitH
 
 If you already have an existing Unity project and want to integrate Dunger, you can import it as a Unity package. This allows you to seamlessly add Dunger's dungeon generation capabilities to your ongoing project, enhancing its gameplay with dynamic dungeons.
 
-1. Download `unitypackage` by clicking [here](https://github.com/coderloff/dunger)
+1. Download `unitypackage` by clicking [here](https://github.com/coderloff/dunger/releases/download/v1.0.0/Dunger.unitypackage)
 
 2. Open your Unity project
 
