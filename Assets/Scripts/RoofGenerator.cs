@@ -1,14 +1,16 @@
 using System.Collections.Generic;
-using Dunger;
 using UnityEngine;
 
-public static class RoofGenerator
+namespace Dunger
 {
-    public static void CreateRoof(HashSet<Vector2Int> floorPositions, TilemapVisualizer tilemapVisualizer)
+    public static class RoofGenerator
     {
-        foreach (var position in floorPositions)
+        public static void CreateRoof(HashSet<Vector2Int> floorPositions, TilemapVisualizer tilemapVisualizer)
         {
-            tilemapVisualizer.PaintRoof(position);
+            foreach (var position in floorPositions)
+            {
+                tilemapVisualizer.PaintRoof(position);
+            }
         }
     }
 }
