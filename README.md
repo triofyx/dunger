@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">dunger</h3>
+  <h3 align="center">Dunger</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A 3D Unity Package for Procedrual Dungeon Generation
     <br />
     <a href="https://github.com/coderloff/dunger"><strong>Explore the docs »</strong></a>
     <br />
@@ -104,8 +104,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Unity][Unity]][Unity-url]
-* [![C#][CSharp]][CSharp-url]
+* [![Unity][Unity]][Unity-url] [![C#][CSharp]][CSharp-url]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -249,7 +248,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-url]: https://github.com/coderloff/dunger/stargazers
 [issues-shield]: https://img.shields.io/github/issues/coderloff/dunger?style=for-the-badge&color=%23d0312d
 [issues-url]: https://github.com/coderloff/dunger/issues
-[license-shield]: https://img.shields.io/github/license/coderloff/dunger.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 [license-url]: https://github.com/coderloff/dunger/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/coderloff
