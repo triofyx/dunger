@@ -139,7 +139,7 @@ To start a new project with Dunger, simply clone the Dunger repository from GitH
    ```sh
    git clone https://github.com/coderloff/dunger
    ```
-2. Open clonned project using `Unity Hub`
+2. Open cloned project using `Unity Hub`
 
 #### Importing as a Unity Package:
 
