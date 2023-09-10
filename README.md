@@ -103,9 +103,6 @@ Dunger is powered by the Unity game engine, harnessing its versatile capabilitie
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 Before installing Dunger, ensure that you have the following prerequisites in place:
