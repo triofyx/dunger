@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://img.shields.io/github/contributors/coderloff/dunger?style=for-the-badge&color=%2300ff00" alt="Contributors" />
-  <img src="https://img.shields.io/github/forks/coderloff/dunger?style=for-the-badge" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/coderloff/dunger?style=for-the-badge&color=%23dfb317" alt="Stars" />
-  <img src="https://img.shields.io/github/issues/coderloff/dunger?style=for-the-badge&color=%23d0312d" alt="Issues" />
+  <img src="https://img.shields.io/github/contributors/triofyx/dunger?style=for-the-badge&color=%2300ff00" alt="Contributors" />
+  <img src="https://img.shields.io/github/forks/triofyx/dunger?style=for-the-badge" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/triofyx/dunger?style=for-the-badge&color=%23dfb317" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/triofyx/dunger?style=for-the-badge&color=%23d0312d" alt="Issues" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </div>
 
@@ -19,7 +19,7 @@
   <h3 align="center">Dunger</h3>
 
   <p align="center">
-    A 3D Unity Package for Procedrual Dungeon Generation
+    A 3D Unity Package for Procedural Dungeon Generation
     <br />
     <a href="https://github.com/coderloff/dunger"><strong>Explore the docs »</strong></a>
     <br />
