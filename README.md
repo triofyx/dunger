@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/coderloff/dunger">
+  <a href="https://github.com/triofyx/dunger">
     <img src="Assets/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     A 3D Unity Package for Procedural Dungeon Generation
     <br />
-    <a href="https://github.com/coderloff/dunger"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/triofyx/dunger"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/coderloff/dunger">View Demo</a>
+    <a href="https://github.com/triofyx/dunger">View Demo</a>
     ·
-    <a href="https://github.com/coderloff/dunger/issues">Report Bug</a>
+    <a href="https://github.com/triofyx/dunger/issues">Report Bug</a>
     ·
-    <a href="https://github.com/coderloff/dunger/issues">Request Feature</a>
+    <a href="https://github.com/triofyx/dunger/issues">Request Feature</a>
   </p>
 </div>
 
@@ -118,13 +118,13 @@ Having these prerequisites in order will help you smoothly install and work with
 ### Installation
 
 <div align="center">
-  <a href="https://github.com/coderloff/dunger/releases" target="_blank">
+  <a href="https://github.com/triofyx/dunger/releases" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB_RELEASES-VISIT-Green?style=for-the-badge&logo=github" alt="GitHub Releases" />
   </a>
   <a href="https://assetstore.unity.com/publishers/88099?preview=1" target="_blank">
     <img src="https://img.shields.io/badge/UNITY_ASSET_STORE-VISIT-Green?style=for-the-badge&logo=unity" alt="Unity Asset Store" />
   </a>
-  <a href="https://github.com/coderloff/dunger/releases/download/v1.0.0/Dunger.unitypackage" target="_blank">
+  <a href="https://github.com/triofyx/dunger/releases/download/v1.0.0/Dunger.unitypackage" target="_blank">
     <img src="https://img.shields.io/badge/UNITY_PACKAGE-DOWNLOAD-Green?style=for-the-badge&logo=unity" alt="Unity Package" />
   </a>
 </div>
@@ -137,7 +137,7 @@ To start a new project with Dunger, simply clone the Dunger repository from GitH
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/coderloff/dunger
+   git clone https://github.com/triofyx/dunger
    ```
 2. Open the cloned project using `Unity Hub`
 
@@ -145,7 +145,7 @@ To start a new project with Dunger, simply clone the Dunger repository from GitH
 
 If you already have an existing Unity project and want to integrate Dunger, you can import it as a Unity package. This allows you to seamlessly add Dunger's dungeon generation capabilities to your ongoing project, enhancing its gameplay with dynamic dungeons.
 
-1. Download `unitypackage` by clicking [here](https://github.com/coderloff/dunger/releases/download/v1.0.0/Dunger.unitypackage)
+1. Download `unitypackage` by clicking [here](https://github.com/triofyx/dunger/releases/download/v1.0.0/Dunger.unitypackage)
 
 2. Open your Unity project
 
@@ -187,7 +187,7 @@ For advanced users, Dunger offers script-based integration, allowing you to cont
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/coderloff/dunger/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/triofyx/dunger/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#readme-top">↑ Back to top</a></p>
 -->
@@ -223,31 +223,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Huseyn Ismayilov - [@coderloff](https://twitter.com/coderloff) - contact@coderloff.com
-
-Project Link: [https://github.com/coderloff/dunger](https://github.com/coderloff/dunger)
+Huseyn Ismayilov - [@ismayilovh](https://github.com/ismayilovh) - huseyn.ismayilov.cs@gmail.com
 
 <div align="center">
   <a href="https://www.linkedin.com/in/coderloff/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UC-z0HI2-UU-ThjUDz2Bsevg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="mailto:contact@coderloff.com" target="_blank">
+  <a href="mailto:huseyn.ismayilov.cs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.gg/UmyXBBTFkE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/coderloff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="instagram.com/coderloff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/coderloff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="mailto:contact@coderloff.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
