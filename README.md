@@ -24,7 +24,7 @@
     <a href="https://github.com/triofyx/dunger"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/triofyx/dunger">View Demo</a>
+    <a href="https://youtu.be/MjCgK_vrM1E">View Showcase Video</a>
     ·
     <a href="https://github.com/triofyx/dunger/issues">Report Bug</a>
     ·
@@ -226,13 +226,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Huseyn Ismayilov - [@ismayilovh](https://github.com/ismayilovh) - huseyn.ismayilov.cs@gmail.com
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/coderloff/" target="_blank">
+  <a href="https://www.linkedin.com/in/ismayilov-huseyn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:huseyn.ismayilov.cs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="mailto:contact@coderloff.com" target="_blank">
+  <a href="https://github.com/ismayilovh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
